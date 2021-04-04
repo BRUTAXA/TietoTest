@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset="utf-8">
+    <title>Book Store</title>
+</head>
+
+<body>
+
+
+<h3>Books</h3>
+
+<td th:if="${books != null}">
+    <tr th:each="book : ${books}">
+        <td th:text="${product.title}" />
+        <td th:text="${product.author}" />
+    </tr>
+</td>
+</body>
