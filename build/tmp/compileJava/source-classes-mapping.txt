@@ -1,0 +1,44 @@
+bookstore/com/core/response/CoreResponse.java
+ bookstore.com.core.response.CoreResponse
+bookstore/com/console_ui/ProgramMenu.java
+ bookstore.com.console_ui.ProgramMenu
+bookstore/com/web_ui/config/SpringWebConfiguration.java
+ bookstore.com.web_ui.config.SpringWebConfiguration
+bookstore/com/database/InMemoryDatabaseImplementation.java
+ bookstore.com.database.InMemoryDatabaseImplementation
+bookstore/com/console_ui/UIAction.java
+ bookstore.com.console_ui.UIAction
+bookstore/com/console_ui/ExitFromApplicationUIAction.java
+ bookstore.com.console_ui.ExitFromApplicationUIAction
+bookstore/com/core/validators/AddBookRequestValidator.java
+ bookstore.com.core.validators.AddBookRequestValidator
+bookstore/com/console_ui/AddBookUIAction.java
+ bookstore.com.console_ui.AddBookUIAction
+bookstore/com/core/response/GetAllBooksResponse.java
+ bookstore.com.core.response.GetAllBooksResponse
+bookstore/com/database/ORMBookDatabase.java
+ bookstore.com.database.ORMBookDatabase
+bookstore/com/core/response/AddBookResponse.java
+ bookstore.com.core.response.AddBookResponse
+bookstore/com/config/SpringCoreConfiguration.java
+ bookstore.com.config.SpringCoreConfiguration
+bookstore/com/core/service/AddBookService.java
+ bookstore.com.core.service.AddBookService
+bookstore/com/core/request/AddBookRequest.java
+ bookstore.com.core.request.AddBookRequest
+bookstore/com/core/domain/Book.java
+ bookstore.com.core.domain.Book
+bookstore/com/core/response/CoreError.java
+ bookstore.com.core.response.CoreError
+bookstore/com/database/BookDatabase.java
+ bookstore.com.database.BookDatabase
+bookstore/com/core/request/Paging.java
+ bookstore.com.core.request.Paging
+bookstore/com/BookstoreApplication.java
+ bookstore.com.BookstoreApplication
+bookstore/com/core/request/GetAllBooksRequest.java
+ bookstore.com.core.request.GetAllBooksRequest
+bookstore/com/database/jpa/BookRepository.java
+ bookstore.com.database.jpa.BookRepository
+bookstore/com/core/request/Ordering.java
+ bookstore.com.core.request.Ordering
